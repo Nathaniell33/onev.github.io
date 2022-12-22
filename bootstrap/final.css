@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url("images/BACKGROUND.png");
+    background-position: center;
+}
+
+.navbar-atas span:hover {
+    color: red;
+    cursor: pointer;
+}
+.bendera span{
+    font-size: 10px;
+}
+.follow {
+    font-size: 13px;
+    color: rgb(117, 117, 117);
+}
+.signin {
+    top: 5px;
+    display: inline;
+    margin-right: 100px;
+    position: absolute;
+    right: 0px;
+    padding: 10px;
+    float: left;
+}
+.signin a{
+    color: #616161;
+    font-size: 13px;
+    top: 15px;
+    right: -25px;
+    width: 50px;
+}
+.text-atas {
+    padding-left: 50px;
+}
+.text-atas p {
+    font-size: 11px;
+}
+.nav-item a{
+    font-size: 17px;
+}
+.main-navbar li a {
+    color: black;
+    font-size: 18px;
+}
+.main-navbar li a:hover {
+    color: blue;
+}
+
+.home {
+    padding-top : 100px;
+    padding-bottom: 100px;
+    background-image:url('images/home.jpg') ; 
+}
+.col-md-4 img{
+    width: 350px;
+    height: 230px;
+    display: flex;
+}
+.video iframe{
+    width: 350px;
+    height: 200px;
+}
+.garis {
+    width: 50px;
+    background-color: rgb(121,208,205);
+    height: 4px;
+    margin: 20px 0 40px 0;
+    border-radius: 2px;
+}
+.footerr {
+    background-color: rgb(21,20,20);
+}
+.link a {
+    color: white;
+    font-size: 18px;
+}
+.list p {
+    color: rgb(95, 94,94);
+    font-size: 18px;
+    
+}
